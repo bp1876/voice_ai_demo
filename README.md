@@ -1,6 +1,6 @@
 # Voice AI Agent Demo (Track 2: Deepgram + Cartesia + OpenAI)
 
-This repo is a practical demo you can show in a CTO/fractional CTO hiring process:
+This repo is a practical demo I can show in a CTO/fractional CTO hiring process:
 
 - **Streaming STT:** Deepgram
 - **LLM:** OpenAI (Responses API)
