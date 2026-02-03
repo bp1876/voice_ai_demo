@@ -1,5 +1,7 @@
 # Voice AI Agent Demo (Track 2: Deepgram + Cartesia + OpenAI)
 
+I implemented the appointment-booking flow, added logging + payload output, and wrote production notes on latency/failures/observability.
+
 This repo is a practical demo I can show in a CTO/fractional CTO hiring process:
 
 - **Streaming STT:** Deepgram
